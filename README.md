@@ -1,11 +1,11 @@
 <h1 align="center">Welcome to my GitHub !</h1>
 
-<h2>I am a Web & Blockchain Developer. You can see my main projects below.<br/>Feel free to visit my <a href="https://nathanaelkubski.vercel.app/">portfolio</a> and to contact me on my <a href="">https://www.linkedin.com/in/nathanael-kubski-a70782284/</a> !</h2>
+<h2 align="center">I am a Web & Blockchain Developer. You can see my main projects below.<br/>Feel free to visit my <a href="https://nathanaelkubski.vercel.app/">portfolio</a> and to contact me on my <a href="https://www.linkedin.com/in/nathanael-kubski-a70782284/">LinkedIn</a> !</h2>
 
 <h1 align="center">Languages I speak</h1>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html, css, js, py, ts, react, solidity" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,py,ts,react,solidity" />
   </a>
 </p>
 
