@@ -12,7 +12,7 @@
 <h1 align="center">Tools I use</h1>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=github, vercel, mongodb, nextjs, ipfs" />
+    <img src="https://skillicons.dev/icons?i=github,vercel,mongodb,nextjs,ipfs" />
   </a>
 </p>
 
